@@ -170,5 +170,5 @@ if(520>=frameCount%600 & frameCount%600>=380){
   else{box(40);}
   popMatrix();
 }  
-if(frameCount<=601){saveFrame("boxes/####.png");}
+if(frameCount<=600){saveFrame("boxes/####.png");}
   }
